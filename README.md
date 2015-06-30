@@ -1,1 +1,3 @@
 # trajectory
+
+TDD your life.
